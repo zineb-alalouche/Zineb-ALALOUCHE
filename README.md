@@ -1,55 +1,415 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-  
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zineb Alalouche - Data Analyst</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, #2c3e50 0%, #4a6580 100%);
+            color: white;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        header h2 {
+            font-size: 1.5rem;
+            font-weight: 400;
+            margin-bottom: 20px;
+            color: #ecf0f1;
+        }
+        
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .contact-info a {
+            color: white;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: opacity 0.3s;
+        }
+        
+        .contact-info a:hover {
+            opacity: 0.8;
+        }
+        
+        section {
+            background: white;
+            border-radius: 8px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        }
+        
+        h3 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .education-item, .experience-item, .certification-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .education-item:last-child, .experience-item:last-child, .certification-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+        
+        .item-title {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .item-date {
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        
+        .item-subtitle {
+            color: #3498db;
+            margin-bottom: 10px;
+        }
+        
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .skill-category {
+            margin-bottom: 15px;
+        }
+        
+        .skill-category h4 {
+            margin-bottom: 10px;
+            color: #2c3e50;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .skill-tag {
+            background: #e8f4fc;
+            color: #3498db;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .languages {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .language-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            flex: 1;
+            min-width: 200px;
+            text-align: center;
+        }
+        
+        .language-item h4 {
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        
+        .progress-bar {
+            height: 8px;
+            background: #ecf0f1;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+        
+        .progress {
+            height: 100%;
+            background: #3498db;
+            border-radius: 4px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .skills-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .item-header {
+                flex-direction: column;
+            }
+            
+            .language-item {
+                min-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Zineb Alalouche</h1>
+            <h2>Data Analyst à la recherche d'un CDI</h2>
+            <div class="contact-info">
+                <a href="#"><i class="fas fa-envelope"></i> email@example.com</a>
+                <a href="#"><i class="fas fa-phone"></i> +33 XX XX XX XX XX</a>
+                <a href="#"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                <a href="#"><i class="fab fa-github"></i> GitHub</a>
+            </div>
+        </header>
+        
+        <section id="about">
+            <h3><i class="fas fa-user"></i> Profil</h3>
+            <p>Data Analyst passionnée avec une solide formation en ingénierie des systèmes complexes, big data et intelligence artificielle. Je suis à la recherche d'un CDI où je pourrais mettre à profit mes compétences en analyse de données, machine learning et business intelligence pour aider à la prise de décision stratégique.</p>
+        </section>
+        
+        <section id="experience">
+            <h3><i class="fas fa-briefcase"></i> Expériences Professionnelles</h3>
+            
+            <div class="experience-item">
+                <div class="item-header">
+                    <div class="item-title">Data / Business Analyst</div>
+                    <div class="item-date">Mars 2025 - Août 2025</div>
+                </div>
+                <div class="item-subtitle">Capgemini, Nantes | Stage de 6 mois</div>
+                <ul>
+                    <li>Recueil et analyse des besoins, rédaction de User Stories dans un environnement agile.</li>
+                    <li>Conception et déploiement d'un tableau de bord Power BI pour l'analyse des KPI digitaux.</li>
+                    <li>Configuration et validation de tags sur Piwik PRO pour suivre et analyser le comportement des utilisateurs.</li>
+                    <li>Analyse des données pour SEO vocal et optimisation de la visibilité digitale.</li>
+                </ul>
+            </div>
+            
+            <div class="experience-item">
+                <div class="item-header">
+                    <div class="item-title">Data Scientist</div>
+                    <div class="item-date">Avril 2023 - Août 2023</div>
+                </div>
+                <div class="item-subtitle">SOKIDAM, Rabat | Stage de 6 mois</div>
+                <ul>
+                    <li>Création d'un modèle prédictif des prix avec une précision de 98%.</li>
+                    <li>Collecte de données, analyse exploratoire, machine learning et développement d'une interface interactive.</li>
+                </ul>
+            </div>
+            
+            <div class="experience-item">
+                <div class="item-header">
+                    <div class="item-title">Data Analyst</div>
+                    <div class="item-date">Avril 2023 - Juillet 2023</div>
+                </div>
+                <div class="item-subtitle">Commune de Fes | Stage de 4 mois</div>
+                <ul>
+                    <li>Analyse des données pour optimiser la qualité du transport urbain.</li>
+                    <li>Création d'un tableau de bord interactif.</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section id="education">
+            <h3><i class="fas fa-graduation-cap"></i> Formations</h3>
+            
+            <div class="education-item">
+                <div class="item-header">
+                    <div class="item-title">Master en Ingénierie des Systèmes Complexes - Data Science</div>
+                    <div class="item-date">2023 - 2025</div>
+                </div>
+                <div class="item-subtitle">École d'ingénieurs du Littoral-Côte-d'Opale (EILCO)</div>
+            </div>
+            
+            <div class="education-item">
+                <div class="item-header">
+                    <div class="item-title">Licence Professionnelle en Big Data et Intelligence Artificielle</div>
+                    <div class="item-date">2022 - 2023</div>
+                </div>
+                <div class="item-subtitle">Faculté des sciences de Rabat</div>
+            </div>
+            
+            <div class="education-item">
+                <div class="item-header">
+                    <div class="item-title">DUT en Business Intelligence</div>
+                    <div class="item-date">2020 - 2022</div>
+                </div>
+                <div class="item-subtitle">Ecole Supérieure de Technologie</div>
+            </div>
+        </section>
+        
+        <section id="skills">
+            <h3><i class="fas fa-code"></i> Compétences</h3>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h4><i class="fas fa-chart-line"></i> Data Science</h4>
+                    <div class="skills-list">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">Pandas</span>
+                        <span class="skill-tag">NumPy</span>
+                        <span class="skill-tag">Matplotlib</span>
+                        <span class="skill-tag">Seaborn</span>
+                        <span class="skill-tag">Scikit-learn</span>
+                        <span class="skill-tag">TensorFlow</span>
+                        <span class="skill-tag">PyTorch</span>
+                        <span class="skill-tag">NLP</span>
+                        <span class="skill-tag">Time Series</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h4><i class="fas fa-database"></i> Bases de Données</h4>
+                    <div class="skills-list">
+                        <span class="skill-tag">SQL</span>
+                        <span class="skill-tag">MySQL</span>
+                        <span class="skill-tag">PL/SQL</span>
+                        <span class="skill-tag">Oracle Database</span>
+                        <span class="skill-tag">Datawarehouse</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h4><i class="fas fa-brain"></i> Business Intelligence</h4>
+                    <div class="skills-list">
+                        <span class="skill-tag">Modélisation multidimensionnelle</span>
+                        <span class="skill-tag">Reporting</span>
+                        <span class="skill-tag">ETL</span>
+                        <span class="skill-tag">Data Mining</span>
+                        <span class="skill-tag">Data Visualization</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h4><i class="fas fa-tools"></i> Technologies & Outils</h4>
+                    <div class="skills-list">
+                        <span class="skill-tag">Power BI</span>
+                        <span class="skill-tag">Tableau</span>
+                        <span class="skill-tag">QlikView</span>
+                        <span class="skill-tag">Talend</span>
+                        <span class="skill-tag">Google Analytics</span>
+                        <span class="skill-tag">SPSS</span>
+                        <span class="skill-tag">Jira</span>
+                        <span class="skill-tag">Confluence</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="certifications">
+            <h3><i class="fas fa-certificate"></i> Certifications</h3>
+            
+            <div class="certification-item">
+                <div class="item-header">
+                    <div class="item-title">IBM : IA Generative</div>
+                </div>
+            </div>
+            
+            <div class="certification-item">
+                <div class="item-header">
+                    <div class="item-title">Atlassian : Jira Confluence</div>
+                </div>
+            </div>
+            
+            <div class="certification-item">
+                <div class="item-header">
+                    <div class="item-title">Piwik Pro : Piwik Pro Analytics</div>
+                </div>
+            </div>
+            
+            <div class="certification-item">
+                <div class="item-header">
+                    <div class="item-title">University of Virginia Darden School Foundation : Content Marketing Using Generative AI</div>
+                </div>
+            </div>
+            
+            <div class="certification-item">
+                <div class="item-header">
+                    <div class="item-title">Coursera : Advanced Relational Database and SQL</div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="languages">
+            <h3><i class="fas fa-language"></i> Langues</h3>
+            <div class="languages">
+                <div class="language-item">
+                    <h4>Français</h4>
+                    <div>Courant</div>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 100%"></div>
+                    </div>
+                </div>
+                
+                <div class="language-item">
+                    <h4>Anglais</h4>
+                    <div>Courant</div>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 90%"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <footer>
+            <p>© 2023 Zineb Alalouche - Tous droits réservés</p>
+        </footer>
+    </div>
+</body>
+</html>
