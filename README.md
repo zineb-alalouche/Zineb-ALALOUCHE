@@ -1,55 +1,102 @@
-# Data Scientist
+# Zineb Alalouche
+#### Data Scientist | Data Analyst | Ingénieure en Systèmes Complexes
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+[Email](mailto:zineb.alalouche@example.com) | [LinkedIn](https://linkedin.com/in/zineb-alalouche) | [GitHub](https://github.com/zineb-alalouche) | [Portfolio](https://zineb-alalouche.github.io)
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Compétences Techniques
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science & Machine Learning:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Machine Learning, Modélisation statistique, Séries temporelles, NLP
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Bases de données:** SQL, MySQL, PL/SQL, Oracle Database, Datawarehouse
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Business Intelligence:** Modélisation multidimensionnelle, ETL, Reporting, Data Mining, Visualisation de données
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Outils & Technologies:** Power BI, Tableau, Talend, Jira, Confluence, Google Analytics, Piwik Pro, Git
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Expérience Professionnelle
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Data / Business Analyst** @ Capgemini, Nantes (_Mars 2025 - Août 2025_)
+- Recueil et analyse des besoins, rédaction de User Stories dans un environnement agile
+- Conception et déploiement d'un tableau de bord Power BI pour l'analyse des KPI digitaux
+- Configuration et validation de tags sur Piwik PRO pour l'analyse du comportement utilisateur
+- Analyse des données pour SEO vocal et optimisation de la visibilité digitale
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Data Scientist** @ SOKIDAM, Rabat (_Avril 2023 - Août 2023_)
+- Création d'un modèle prédictif des prix avec une précision de 98%
+- Collecte de données, analyse exploratoire et développement d'une interface interactive avec Streamlit
+- Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Data Analyst** @ Commune de Fès (_Avril 2023 - Juillet 2023_)
+- Analyse des données pour optimiser la qualité du transport urbain
+- Création d'un tableau de bord interactif avec Power BI
+- Technologies: Google Forms, Talend, Power BI, SQL, Excel
+
+---
+
+## Formation
+
+**Master en Ingénierie des Systèmes Complexes - Data Science** @ École d'ingénieurs du Littoral-Côte-d'Opale (EILCO) (_2023-2025_)
+
+**Licence Professionnelle en Big Data et Intelligence Artificielle** @ Faculté des sciences de Rabat (_2022-2023_)
+
+**DUT en Business Intelligence** @ Ecole Supérieure de Technologie (_2020-2022_)
+
+---
+
+## Projets
+
+### Modèle prédictif des prix avec Streamlit
+[Code GitHub](https://github.com/zineb-alalouche/price-prediction) | [Démo](https://zineb-alalouche-price-prediction.streamlit.app)
+
+Développement d'un modèle prédictif des prix avec une précision de 98%, incluant la collecte de données, l'analyse exploratoire, la mise en œuvre d'algorithmes de machine learning et le développement d'une interface interactive avec Streamlit.
+
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit, SQL
+
+### Optimisation du transport urbain - Tableau de bord interactif
+[Code GitHub](https://github.com/zineb-alalouche/urban-transport-optimization)
+
+Analyse des données de transport pour la Commune de Fès et création d'un tableau de bord interactif permettant de visualiser les indicateurs clés de performance et d'identifier des axes d'amélioration.
+
+**Technologies:** Power BI, Talend, SQL, Google Forms
+
+### Analyse des KPI digitaux avec Power BI
+[Code GitHub](https://github.com/zineb-alalouche/digital-kpi-dashboard)
+
+Conception et déploiement d'un tableau de bord Power BI pour l'analyse des KPI digitaux d'une web factory, avec intégration de données multiples et création de visualisations interactives.
+
+**Technologies:** Power BI, Piwik Pro, Python, SQL
+
+---
+
+## Certifications
+
+- IBM : IA Generative
+- ATLASIAN : JIRA CONFLUENCE
+- PIWIK PRO : PIWIK PRO ANALYTICS
+- University of Virginia Darden School Foundation : Content Marketing Using Generative AI
+- Coursera : Advanced Relational Database and SQL
+
+---
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+1. **Projet de recherche Master** - "Application des méthodes de Deep Learning pour la prédiction de séries temporelles complexes" (2025)
+2. **Projet de Licence** - "Étude comparative des algorithmes de clustering pour l'analyse de données clients" (2023)
+
+---
+
+## Langues
+
+- **Français:** Courant
+- **Anglais:** Courant
+- **Arabe:** Langue maternelle
+
+---
+
+## Centres d'intérêt
+
+Veille technologique (Data Science, IA), participation à des hackathons data, lecture (scientific literature, tech blogs), natation
