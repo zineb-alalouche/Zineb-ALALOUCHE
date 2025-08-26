@@ -1,5 +1,5 @@
 # Zineb Alalouche
-#### Data Scientist | Data Analyst | Ingénieure en Systèmes Complexes
+#### Data Scientist | Data Analyst | Business Analyst
 
 [Email](mailto:zineb.alalouche@example.com) | [LinkedIn](https://linkedin.com/in/zineb-alalouche) | [GitHub](https://github.com/zineb-alalouche) | [Portfolio](https://zineb-alalouche.github.io)
 
