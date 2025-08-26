@@ -1,43 +1,57 @@
 # Zineb Alalouche
-#### Data Scientist | Data Analyst | Business Analyst
+#### Data Scientist | Data Analyst | Ingénieure en Systèmes Complexes
 
-[Email](mailto:zineb.alalouche@example.com) | [LinkedIn](https://linkedin.com/in/zineb-alalouche) | [GitHub](https://github.com/zineb-alalouche) | [Portfolio](https://zineb-alalouche.github.io)
-
----
-
-## Compétences Techniques
-
-**Data Science & Machine Learning:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Machine Learning, Modélisation statistique, Séries temporelles, NLP
-
-**Bases de données:** SQL, MySQL, PL/SQL, Oracle Database, Datawarehouse
-
-**Business Intelligence:** Modélisation multidimensionnelle, ETL, Reporting, Data Mining, Visualisation de données
-
-**Outils & Technologies:** Power BI, Tableau, Talend, Jira, Confluence, Google Analytics, Piwik Pro, Git
+[📧 Email](mailto:zineb.alalouche@example.com) | [💼 LinkedIn](https://linkedin.com/in/zineb-alalouche) | [🐱 GitHub](https://github.com/zineb-alalouche) | [🌐 Portfolio](https://zineb-alalouche.github.io)
 
 ---
 
-## Expérience Professionnelle
+## 🛠️ Compétences Techniques
 
-**Data / Business Analyst** @ Capgemini, Nantes (_Mars 2025 - Août 2025_)
-- Recueil et analyse des besoins, rédaction de User Stories dans un environnement agile
-- Conception et déploiement d'un tableau de bord Power BI pour l'analyse des KPI digitaux
-- Configuration et validation de tags sur Piwik PRO pour l'analyse du comportement utilisateur
-- Analyse des données pour SEO vocal et optimisation de la visibilité digitale
+### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-**Data Scientist** @ SOKIDAM, Rabat (_Avril 2023 - Août 2023_)
-- Création d'un modèle prédictif des prix avec une précision de 98%
-- Collecte de données, analyse exploratoire et développement d'une interface interactive avec Streamlit
-- Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+### Bases de données
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
-**Data Analyst** @ Commune de Fès (_Avril 2023 - Juillet 2023_)
-- Analyse des données pour optimiser la qualité du transport urbain
-- Création d'un tableau de bord interactif avec Power BI
-- Technologies: Google Forms, Talend, Power BI, SQL, Excel
+### Business Intelligence & Visualisation
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-0097CF?logo=qlik&logoColor=white)
+
+### ETL & Intégration de données
+![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white)
+
+### Analytics
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)
+
+### Outils collaboratifs
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 
 ---
 
-## Formation
+## 💼 Expérience Professionnelle
+
+**Data / Business Analyst** @ Capgemini, Nantes (_Mars 2025 - Août 2025_)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+**Data Scientist** @ SOKIDAM, Rabat (_Avril 2023 - Août 2023_)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+
+**Data Analyst** @ Commune de Fès (_Avril 2023 - Juillet 2023_)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+
+---
+
+## 🎓 Formations
 
 **Master en Ingénierie des Systèmes Complexes - Data Science** @ École d'ingénieurs du Littoral-Côte-d'Opale (EILCO) (_2023-2025_)
 
@@ -47,56 +61,34 @@
 
 ---
 
-## Projets
+## 📊 Projets
 
 ### Modèle prédictif des prix avec Streamlit
-[Code GitHub](https://github.com/zineb-alalouche/price-prediction) | [Démo](https://zineb-alalouche-price-prediction.streamlit.app)
-
-Développement d'un modèle prédictif des prix avec une précision de 98%, incluant la collecte de données, l'analyse exploratoire, la mise en œuvre d'algorithmes de machine learning et le développement d'une interface interactive avec Streamlit.
-
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit, SQL
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/zineb-alalouche/price-prediction)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://zineb-alalouche-price-prediction.streamlit.app)
 
 ### Optimisation du transport urbain - Tableau de bord interactif
-[Code GitHub](https://github.com/zineb-alalouche/urban-transport-optimization)
-
-Analyse des données de transport pour la Commune de Fès et création d'un tableau de bord interactif permettant de visualiser les indicateurs clés de performance et d'identifier des axes d'amélioration.
-
-**Technologies:** Power BI, Talend, SQL, Google Forms
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/urban-transport-optimization)
+[![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white)](https://github.com/zineb-alalouche/urban-transport-optimization)
 
 ### Analyse des KPI digitaux avec Power BI
-[Code GitHub](https://github.com/zineb-alalouche/digital-kpi-dashboard)
-
-Conception et déploiement d'un tableau de bord Power BI pour l'analyse des KPI digitaux d'une web factory, avec intégration de données multiples et création de visualisations interactives.
-
-**Technologies:** Power BI, Piwik Pro, Python, SQL
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
+[![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- IBM : IA Generative
-- ATLASIAN : JIRA CONFLUENCE
-- PIWIK PRO : PIWIK PRO ANALYTICS
+- ![IBM](https://img.shields.io/badge/IBM-IBM-052FAD?logo=ibm&logoColor=white) : IA Generative
+- ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white) : JIRA CONFLUENCE
+- ![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white) : PIWIK PRO ANALYTICS
 - University of Virginia Darden School Foundation : Content Marketing Using Generative AI
-- Coursera : Advanced Relational Database and SQL
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) : Advanced Relational Database and SQL
 
 ---
 
-## Publications
+## 🌐 Langues
 
-1. **Projet de recherche Master** - "Application des méthodes de Deep Learning pour la prédiction de séries temporelles complexes" (2025)
-2. **Projet de Licence** - "Étude comparative des algorithmes de clustering pour l'analyse de données clients" (2023)
-
----
-
-## Langues
-
-- **Français:** Courant
-- **Anglais:** Courant
-- **Arabe:** Langue maternelle
-
----
-
-## Centres d'intérêt
-
-Veille technologique (Data Science, IA), participation à des hackathons data, lecture (scientific literature, tech blogs), natation
+- **Français**: Courant
+- **Anglais**: Courant
+- **Arabe**: Langue maternelle
