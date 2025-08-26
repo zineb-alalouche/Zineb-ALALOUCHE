@@ -91,7 +91,7 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 - [![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X0ROVQN9BW3W) : AI GENERATIVE
 - [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AZB2CQ06UNW1) : JIRA CONFLUENCE
 - [![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AZB2CQ06UNW1) : PIWIK PRO ANALYTICS
-- University of Virginia Darden School Foundation : Content Marketing Using Generative AI
+- [University of Virginia Darden School Foundation ](https://www.coursera.org/account/accomplishments/verify/OSTNHQV48QWP): Content Marketing Using Generative AI
 - [![University of Virginia](https://img.shields.io/badge/University_of_Virginia-232D4B?logo=university&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/OSTNHQV48QWP) Content Marketing Using Generative AI
 - [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/CN8NC2Q6JO6I?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) : Advanced Relational Database and SQL
 
