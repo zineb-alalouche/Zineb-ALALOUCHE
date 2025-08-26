@@ -1,7 +1,7 @@
 # Zineb Alalouche
 #### Data Scientist | Data Analyst & BI| Business Analyst
 
-[📧 Email](mailto:alalouchezineb@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/zineb-alalouche) | [🐱 GitHub](https://github.com/zineb-alalouche) | [🌐 Portfolio](https://zineb-alalouche.github.io)
+[📧 Email](mailto:alalouchezineb@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/zineb-alalouche) | [🐱 GitHub](https://github.com/zineb-alalouche) | [🌐 Portfolio](https://github.com/zineb-alalouche)
 
 ---
 
@@ -64,7 +64,7 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 **Master's in Complex Systems Engineering - Data Science** @ École d'ingénieurs du Littoral-Côte-d'Opale (EILCO)
 
-** Bachelor's in Big Data and Artificial Intelligence** @ Faculty of Sciences of Rabat
+**Bachelor's in Big Data and Artificial Intelligence** @ Faculty of Sciences of Rabat
 
 **DUT In Business Intelligence** @ Higher School of Technology
 
