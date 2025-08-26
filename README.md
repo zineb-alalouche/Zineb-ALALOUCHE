@@ -60,27 +60,27 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 ---
 
-## 🎓 Formations
+## 🎓 Education
 
-**Master en Ingénierie des Systèmes Complexes - Data Science** @ École d'ingénieurs du Littoral-Côte-d'Opale (EILCO) (_2023-2025_)
+**Master's in Complex Systems Engineering - Data Science** @ École d'ingénieurs du Littoral-Côte-d'Opale (EILCO)
 
-**Licence Professionnelle en Big Data et Intelligence Artificielle** @ Faculté des sciences de Rabat (_2022-2023_)
+** Bachelor's in Big Data and Artificial Intelligence** @ Faculty of Sciences of Rabat
 
-**DUT en Business Intelligence** @ Ecole Supérieure de Technologie (_2020-2022_)
+**DUT In Business Intelligence** @ Higher School of Technology
 
 ---
 
-## 📊 Projets
+## 📊 Projects
 
-### Modèle prédictif des prix avec Streamlit
+### Predictive Price Model with Streamlit
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/zineb-alalouche/price-prediction)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://zineb-alalouche-price-prediction.streamlit.app)
 
-### Optimisation du transport urbain - Tableau de bord interactif
+### Urban Transport Optimization - Interactive Dashboard
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/urban-transport-optimization)
 [![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white)](https://github.com/zineb-alalouche/urban-transport-optimization)
 
-### Analyse des KPI digitaux avec Power BI
+### Digital KPI Analysis with Power BI
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
 [![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
 
@@ -88,17 +88,16 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 ## 📜 Certifications
 
-- [![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)] : [AI GENERATIVE](https://www.coursera.org/account/accomplishments/verify/X0ROVQN9BW3W)
-- [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white)] : [JIRA CONFLUENCE](https://www.coursera.org/account/accomplishments/verify/AZB2CQ06UNW1)
+- ![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white): [AI GENERATIVE](https://www.coursera.org/account/accomplishments/verify/X0ROVQN9BW3W)
+- ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white) : [JIRA CONFLUENCE](https://www.coursera.org/account/accomplishments/verify/AZB2CQ06UNW1)
 - [![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)] : [PIWIK PRO ANALYTICS](https://www.coursera.org/account/accomplishments/verify/AZB2CQ06UNW1)
-- [University of Virginia Darden School Foundation ]: [Content Marketing Using Generative AI](https://www.coursera.org/account/accomplishments/verify/OSTNHQV48QWP)
-- [![University of Virginia](https://img.shields.io/badge/University_of_Virginia-232D4B?logo=university&logoColor=white)]:[ Content Marketing Using Generative AI](https://www.coursera.org/account/accomplishments/verify/OSTNHQV48QWP)
-- [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)]: [Advanced Relational Database and SQL](https://www.coursera.org/account/accomplishments/verify/CN8NC2Q6JO6I?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) 
+- University of Virginia Darden School Foundation : [Content Marketing Using Generative AI](https://www.coursera.org/account/accomplishments/verify/OSTNHQV48QWP)
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white): [Advanced Relational Database and SQL](https://www.coursera.org/account/accomplishments/verify/CN8NC2Q6JO6I?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) 
 
 ---
 
-## 🌐 Langues
+## 🌐 Languages
 
-- **Français**: Courant
-- **Anglais**: Courant
-- **Arabe**: Langue maternelle
+- **French**: Fluent
+- **English**: Fluent
+- **Arabic**: Native
