@@ -88,7 +88,8 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 ## 📜 Certifications
 
--[IBM : AI Generative]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.coursera.org/account/accomplishments/verify/X0ROVQN9BW3W)) ![IBM](https://img.shields.io/badge/IBM-IBM-052FAD?logo=ibm&logoColor=white) 
+- ![IBM](https://img.shields.io/badge/IBM-IBM-052FAD?logo=ibm&logoColor=white)  : AI GENERATIVE
+- [![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X0ROVQN9BW3W) AI GENERATIVE
 - ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white) : JIRA CONFLUENCE
 - ![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white) : PIWIK PRO ANALYTICS
 - University of Virginia Darden School Foundation : Content Marketing Using Generative AI
