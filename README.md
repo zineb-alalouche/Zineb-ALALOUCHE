@@ -86,15 +86,19 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 ### 1️⃣ Bayesian Analysis for Diabetes Prediction 📈🩺
 - **Description**: Built a predictive model for diabetes using Bayesian analysis. Achieved an accuracy of 76.62% with detailed performance metrics and confusion matrix.
-- **Link**: [View Project](https://github.com/zineb-alalouche/Bayesian-Analysis-for-Diabetes-Prediction)
+- **Link**: [View Project](https://github.com/zineb-alalouche/Data-project/tree/main/Bayesian-Analysis-for-Diabetes-Prediction)
 
 ### 2️⃣ Urban Transport Quality Optimization 🚌📊
 - **Description**: Analyzed and optimized the quality of urban transport in Fes. Collected survey data, analyzed usage patterns, and created interactive dashboards in Power BI.
-- **Link**: [View Project](https://github.com/zineb-alalouche/Urban-Transport-Quality-Optimization)
+- **Link**: [View Project](https://github.com/zineb-alalouche/Data-project/tree/main/Urban-Transport-Quality-Optimization)
 
 ### 3️⃣ Facial Recognition + NLP Integration 🤖🗣️
 - **Description**: Developed a Python system combining facial recognition and natural language processing for real-time user interaction with voice commands.
-- **Link**: [View Project](https://github.com/zineb-alalouche/Facial-Recognition-NLP)
+- **Link**: [View Project](https://github.com/zineb-alalouche/Data-project/tree/main/Facial-Recognition-%26-NLP-Integration)
+### 4️⃣ Price Prediction for Construction Budget Optimization 🏗️💰
+- **Description**: Developed a predictive model to estimate construction material prices using time series analysis (SARIMA & SARIMAX). Collected and cleaned historical data from 2005 to 2021, and implemented ETL processes with Talend. Achieved high accuracy with Python and provided an interactive interface for budget planning.
+- **Link**: [View Project]([https://github.com/zineb-alalouche/Construction-Price-Prediction](https://github.com/zineb-alalouche/Data-project/tree/main/gestion-budgetaire))
+
 
 ---
 
