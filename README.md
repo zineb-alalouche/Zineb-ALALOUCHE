@@ -84,17 +84,17 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 
 ## 📊 Projects
 
-### Predictive Price Model with Streamlit
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/zineb-alalouche/price-prediction)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://zineb-alalouche-price-prediction.streamlit.app)
+### 1️⃣ Bayesian Analysis for Diabetes Prediction 📈🩺
+- **Description**: Built a predictive model for diabetes using Bayesian analysis. Achieved an accuracy of 76.62% with detailed performance metrics and confusion matrix.
+- **Link**: [View Project](https://github.com/zineb-alalouche/Bayesian-Analysis-for-Diabetes-Prediction)
 
-### Urban Transport Optimization - Interactive Dashboard
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/urban-transport-optimization)
-[![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white)](https://github.com/zineb-alalouche/urban-transport-optimization)
+### 2️⃣ Urban Transport Quality Optimization 🚌📊
+- **Description**: Analyzed and optimized the quality of urban transport in Fes. Collected survey data, analyzed usage patterns, and created interactive dashboards in Power BI.
+- **Link**: [View Project](https://github.com/zineb-alalouche/Urban-Transport-Quality-Optimization)
 
-### Digital KPI Analysis with Power BI
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
-[![Piwik Pro](https://img.shields.io/badge/Piwik_Pro-315B7C?logo=matomo&logoColor=white)](https://github.com/zineb-alalouche/digital-kpi-dashboard)
+### 3️⃣ Facial Recognition + NLP Integration 🤖🗣️
+- **Description**: Developed a Python system combining facial recognition and natural language processing for real-time user interaction with voice commands.
+- **Link**: [View Project](https://github.com/zineb-alalouche/Facial-Recognition-NLP)
 
 ---
 
