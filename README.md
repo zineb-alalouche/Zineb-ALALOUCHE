@@ -1,9 +1,17 @@
 # Zineb Alalouche
-#### Data Scientist | Data Analyst & BI| Business Analyst
+#### Data Analyst & BI| Business Analyst | Data Scientist
 
 [📧 Email](mailto:alalouchezineb@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/zineb-alalouche) | [🐱 GitHub](https://github.com/zineb-alalouche) | [🌐 Portfolio](https://github.com/zineb-alalouche)
 
 ---
+## About Me 👋
+
+Hi! I'm Zineb Alalouche, an aspiring Data Analyst and Business Intelligence Consultant. I am passionate about turning data into actionable insights and helping organizations make data-driven decisions.  
+
+I enjoy analyzing complex problems, identifying trends, and providing meaningful recommendations. Curious, dynamic, and collaborative, I thrive in team environments and am always eager to learn new tools and techniques to deliver value through data.  
+
+Let's connect! 🌟
+
 
 ## 🛠️ Thechnical SKills
 
