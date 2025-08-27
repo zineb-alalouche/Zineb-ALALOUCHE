@@ -39,7 +39,7 @@ I create interactive dashboards and reports that transform raw data into meaning
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-0097CF?logo=qlik&logoColor=white)
 
-### ETL & Data INtegration
+### ETL & Data Integration
 I design and implement robust ETL pipelines to efficiently move and transform data between systems. My expertise includes data cleansing, transformation workflows, and ensuring data quality throughout the integration process to support analytics and business intelligence initiatives.
 
 ![Talend](https://img.shields.io/badge/Talend-1675BC?logo=talend&logoColor=white)
