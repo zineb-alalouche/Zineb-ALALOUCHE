@@ -97,7 +97,7 @@ Conducted comprehensive analysis of urban transport systems through citizen surv
 - **Link**: [View Project](https://github.com/zineb-alalouche/Data-project/tree/main/Facial-Recognition-%26-NLP-Integration)
 ### 4️⃣ Price Prediction for Construction Budget Optimization 🏗️💰
 - **Description**: Developed a predictive model to estimate construction material prices using time series analysis (SARIMA & SARIMAX). Collected and cleaned historical data from 2005 to 2021, and implemented ETL processes with Talend. Achieved high accuracy with Python and provided an interactive interface for budget planning.
-- **Link**: [View Project]([https://github.com/zineb-alalouche/Construction-Price-Prediction](https://github.com/zineb-alalouche/Data-project/tree/main/gestion-budgetaire))
+- **Link**: [View Project]((https://github.com/zineb-alalouche/Data-project/tree/main/gestion-budgetaire))
 
 
 ---
